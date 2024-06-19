@@ -1,6 +1,6 @@
 Versions:
-1. Java: 8
-2. Maven: 3.6
+1. Java: 17
+2. Maven: 3.8
 
 cURLs:
 
